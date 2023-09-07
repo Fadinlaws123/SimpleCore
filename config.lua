@@ -164,7 +164,9 @@ Config.VehicleControl = {
         engineCommand = true, -- Enable / Disable /eng.
     },
     vehicleMaintenanceScripts = {
+        fixCommand = true,  -- Enable / Disable the /fix command.
         fixPermissions = false, -- Enable / Disable if you need to have ace permissions before using the command! (add_ace group.staff vehicle.fix allow).
+        cleanCommand = true, -- Enable / Disable the /clean command.
         cleanPermissions = false, -- Enable / Disable if you need to have ace permissions before using the command! (add_ace group.staff vehicle.clean allow).
     },
     massVehicleDelete = {
