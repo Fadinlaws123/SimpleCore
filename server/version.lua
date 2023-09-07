@@ -21,7 +21,7 @@ Citizen.CreateThread(function()
 	end
 
 	function VersionCheckHTTPRequest()
-		PerformHttpRequest('https://raw.githubusercontent.com/Fadinlaws123/ScriptVersions/main/SimpleCore.json', VersionCheck, 'GET')
+		PerformHttpRequest('https://raw.githubusercontent.com/Fadinlaws123/ScriptVersionChecker/main/SimpleCore.json', VersionCheck, 'GET')
 	end
 
 	function VersionCheck(err, response, headers)
