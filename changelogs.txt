@@ -1,0 +1,4 @@
+1. Fixed chat commands not using proximity. 
+2. Fixed the /clean command executing for all players in the server.
+3. Fixed the /fix command executing for all players in the server.
+4. Fixed the /911 command not giving a blip on the map.
