@@ -6,7 +6,7 @@
 --                     |_|                                                                                                                                      
 --
 --                   Created by Fadin_laws
---                        V. 1.1.2
+--                        V. 1.1.3
 --
 
 Config = {} -- Do not touch this line.
