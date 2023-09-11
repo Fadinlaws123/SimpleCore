@@ -4,7 +4,7 @@ game 'gta5'
 name 'SimpleCore'
 author 'fadin_laws'
 description 'A SimpleCore for your roleplay needs!'
-version '1.1.2'
+version '1.1.3'
 
 client_scripts {
     'client/client.lua',
