@@ -1,4 +1,4 @@
-# SimpleCore v1.1.2 Release
+# SimpleCore v1.1.3 Release
 
 ### Thank you for downloading SimpleCore!
 
